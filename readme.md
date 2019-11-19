@@ -24,7 +24,7 @@ Tato úloha je hodnocena automatem a následně vyučujícím. Nejprve úlohu od
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Vlastni popis
+# Vlastni popis
 
 Hra bude ve stylu bulanku nicmene v tomto pripde nepratele nebudou moci strilet a zabiji hrace na dotek;
 Hrac ma moznost strilet s urcitou kadenci, kdyz trefi nepritele, tak ho znici a z nepreitele s urcitou pravdepodonosti muze vypadnout bonus,
