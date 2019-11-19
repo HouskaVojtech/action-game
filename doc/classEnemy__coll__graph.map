@@ -1,0 +1,4 @@
+<map id="Enemy" name="Enemy">
+<area shape="rect" id="node2" href="$classEntity.html" title="Class that represents all entitis in game. " alt="" coords="17,277,157,619"/>
+<area shape="rect" id="node3" href="$structVector2.html" title="Vector2 class that represents two dimensional vector and besic operations with it. " alt="" coords="34,5,139,200"/>
+</map>

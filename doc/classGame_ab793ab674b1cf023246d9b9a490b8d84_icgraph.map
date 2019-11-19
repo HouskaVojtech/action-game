@@ -1,0 +1,5 @@
+<map id="Game::banner_render" name="Game::banner_render">
+<area shape="rect" id="node2" href="$classGame.html#a7703c3bf03ebbdd804a01783096c2609" title="Game constructor. " alt="" coords="209,5,309,32"/>
+<area shape="rect" id="node3" href="$classGame.html#ace809daea470fad6d8281612061642c8" title="Method for checking collisions of entities in game. " alt="" coords="200,56,319,83"/>
+<area shape="rect" id="node4" href="$classGame.html#af485a4c277a61df477d6f8f39b04d35f" title="Game runing getter. " alt="" coords="367,81,473,108"/>
+</map>

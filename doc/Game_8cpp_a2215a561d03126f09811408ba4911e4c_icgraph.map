@@ -1,0 +1,4 @@
+<map id="coin_flip" name="coin_flip">
+<area shape="rect" id="node2" href="$classGame.html#ace809daea470fad6d8281612061642c8" title="Method for checking collisions of entities in game. " alt="" coords="124,5,243,32"/>
+<area shape="rect" id="node3" href="$classGame.html#af485a4c277a61df477d6f8f39b04d35f" title="Game runing getter. " alt="" coords="291,5,397,32"/>
+</map>

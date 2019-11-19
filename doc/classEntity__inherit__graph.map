@@ -1,0 +1,8 @@
+<map id="Entity" name="Entity">
+<area shape="rect" id="node2" href="$classBanner.html" title="{Banner\n||+ init()\l+ on_event()\l+ delay()\l}" alt="" coords="5,519,100,626"/>
+<area shape="rect" id="node3" href="$classBonus.html" title="{Bonus\n|+ frames\l+ frame_rate\l|+ on_event()\l}" alt="" coords="125,527,221,619"/>
+<area shape="rect" id="node4" href="$classEnemy.html" title="Class Enemy which defines enemy of player that he have to shoot. " alt="" coords="245,483,407,663"/>
+<area shape="rect" id="node5" href="$classPlayer.html" title="{Player\n|&#45; map_width\l&#45; map_height\l&#45; key_flag\l&#45; speed\l&#45; cntr\l&#45; can_shoot\l&#45; reload_time\l&#45; next_level_speed_difference\l&#45; next_level_reload_difference\l&#45; walls\l&#45; projectiles\l|+ Player()\l+ set_colliders()\l+ set_map_size()\l+ up_reload_time()\l+ up_speed()\l+ on_event()\l}" alt="" coords="431,424,626,721"/>
+<area shape="rect" id="node6" href="$classProjectile.html" title="{Projectile\n|&#45; speed\l|+ Projectile()\l+ on_event()\l}" alt="" coords="650,527,746,619"/>
+<area shape="rect" id="node7" href="$classWall.html" title="{Wall\n|+ frames\l+ frame_rate\l|+ on_event()\l}" alt="" coords="770,527,866,619"/>
+</map>

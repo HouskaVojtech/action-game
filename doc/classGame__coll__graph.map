@@ -1,0 +1,6 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node2" href="$classBanner.html" title="{Banner\n||+ init()\l+ on_event()\l+ delay()\l}" alt="" coords="5,763,100,870"/>
+<area shape="rect" id="node3" href="$classEntity.html" title="Class that represents all entitis in game. " alt="" coords="32,277,172,619"/>
+<area shape="rect" id="node5" href="$classPlayer.html" title="{Player\n|&#45; map_width\l&#45; map_height\l&#45; key_flag\l&#45; speed\l&#45; cntr\l&#45; can_shoot\l&#45; reload_time\l&#45; next_level_speed_difference\l&#45; next_level_reload_difference\l&#45; walls\l&#45; projectiles\l|+ Player()\l+ set_colliders()\l+ set_map_size()\l+ up_reload_time()\l+ up_speed()\l+ on_event()\l}" alt="" coords="125,668,319,965"/>
+<area shape="rect" id="node4" href="$structVector2.html" title="Vector2 class that represents two dimensional vector and besic operations with it. " alt="" coords="49,5,155,200"/>
+</map>

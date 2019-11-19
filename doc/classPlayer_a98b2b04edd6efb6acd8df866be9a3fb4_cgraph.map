@@ -1,0 +1,5 @@
+<map id="Player::on_event" name="Player::on_event">
+<area shape="rect" id="node2" href="$classEntity.html#a9f008a741ec4299de04f45c614bf1bff" title="Sets renderer. " alt="" coords="173,5,309,32"/>
+<area shape="rect" id="node3" href="$classEntity.html#a6981a2e3ce944f1976c87271597f5dc6" title="Method that loads texture from path variable. " alt="" coords="174,56,309,83"/>
+<area shape="rect" id="node4" href="$classEntity.html#a438a003506b8857e3f8b74237b7e90f7" title="Method that checks wether other entity intersects with this entity. " alt="" coords="181,107,302,133"/>
+</map>

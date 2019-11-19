@@ -1,0 +1,4 @@
+<map id="Entity::intersects" name="Entity::intersects">
+<area shape="rect" id="node2" href="$classPlayer.html#a98b2b04edd6efb6acd8df866be9a3fb4" title="Method used to handle tick events and sends player move event. " alt="" coords="177,5,297,32"/>
+<area shape="rect" id="node3" href="$classEnemy.html#aacd947a54458e8aeb2e5edededd2a11e" title="Method that handles tick events and player move events. " alt="" coords="175,56,299,83"/>
+</map>

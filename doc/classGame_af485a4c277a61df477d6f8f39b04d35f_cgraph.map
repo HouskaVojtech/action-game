@@ -1,0 +1,9 @@
+<map id="Game::running" name="Game::running">
+<area shape="rect" id="node2" href="$classGame.html#a698430daa658033e7746e3a161a859a9" title="Method for handling the events. " alt="" coords="160,5,309,32"/>
+<area shape="rect" id="node3" href="$classGame.html#ace809daea470fad6d8281612061642c8" title="Method for checking collisions of entities in game. " alt="" coords="175,56,294,83"/>
+<area shape="rect" id="node5" href="$classGame.html#ab793ab674b1cf023246d9b9a490b8d84" title="Method for drawing banner with initial or end game state on the screen. " alt="" coords="357,107,504,133"/>
+<area shape="rect" id="node6" href="$classGame.html#a15ddd769261d923827a3cdf41499c843" title="Method for rendering entities on screen. " alt="" coords="184,157,285,184"/>
+<area shape="rect" id="node7" href="$classGame.html#af2682362b91ffefcf2b075d5210e01ba" title="Method for loading map file. " alt="" coords="174,208,295,235"/>
+<area shape="rect" id="node8" href="$classGame.html#a8272be134d16c277bb014ad6a22fc357" title="Game::quit" alt="" coords="191,259,278,285"/>
+<area shape="rect" id="node4" href="$Game_8cpp.html#a2215a561d03126f09811408ba4911e4c" title="coin_flip" alt="" coords="395,56,466,83"/>
+</map>

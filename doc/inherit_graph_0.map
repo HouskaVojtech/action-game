@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classEntity.html" title="Class that represents all entitis in game. " alt="" coords="5,132,61,159"/>
+<area shape="rect" id="node2" href="$classBanner.html" title="Banner" alt="" coords="116,5,179,32"/>
+<area shape="rect" id="node3" href="$classBonus.html" title="Bonus" alt="" coords="118,56,177,83"/>
+<area shape="rect" id="node4" href="$classEnemy.html" title="Class Enemy which defines enemy of player that he have to shoot. " alt="" coords="116,107,179,133"/>
+<area shape="rect" id="node5" href="$classPlayer.html" title="Player" alt="" coords="118,157,177,184"/>
+<area shape="rect" id="node6" href="$classProjectile.html" title="Projectile" alt="" coords="109,208,185,235"/>
+<area shape="rect" id="node7" href="$classWall.html" title="Wall" alt="" coords="123,259,171,285"/>
+</map>

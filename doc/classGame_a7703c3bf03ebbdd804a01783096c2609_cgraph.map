@@ -1,0 +1,4 @@
+<map id="Game::Game" name="Game::Game">
+<area shape="rect" id="node2" href="$classGame.html#af2682362b91ffefcf2b075d5210e01ba" title="Method for loading map file. " alt="" coords="166,5,287,32"/>
+<area shape="rect" id="node3" href="$classGame.html#ab793ab674b1cf023246d9b9a490b8d84" title="Method for drawing banner with initial or end game state on the screen. " alt="" coords="153,56,300,83"/>
+</map>
