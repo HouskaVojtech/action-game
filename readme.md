@@ -1,6 +1,6 @@
-Implementujte jednoduchou střílecí hru alespoň jednoho hráče proti počítači.
+# Implementujte jednoduchou střílecí hru alespoň jednoho hráče proti počítači.
 
-Hra musí splňovat následující funkcionality:
+## Hra musí splňovat následující funkcionality:
 
  Objekty, které je možné zničit (nepřátelské jednotky, statické barikády)
  Pohybovat s hráčem (chůze panáčka, let vesmírné lodi, páčka na odrážení míčků)
@@ -8,7 +8,7 @@ Hra musí splňovat následující funkcionality:
  Implementujte jednoduchý "fyzikální" model (setrvačnost lodi, gravitace, odrážení, nabíjení zbrani,...)
  Implementujte načítání (generátoru) mapy ze souboru a ukládání nejlepších skóre do souboru.
 
-Kde lze využít polymorfismus? (doporučené)
+## Kde lze využít polymorfismus? (doporučené)
 
  Rozdělení objektů: (ne)pohyblivý, hráč vs. nepřítel
  Různé bonusy: munice, silnější zbraně, zdvojení zbraní, rychlejší přebíjení,...
